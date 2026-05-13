@@ -26,7 +26,7 @@ public  class  EstudianteServiceTest {
     void  setUp() {
         estudiante = new  Estudiante();
         estudiante.setId(1L);
-        estudiante.setNombre("Juan Perez");
+        estudiante.setNombre("Bencomo Alonso");
         estudiante.setEmail("juan@ejemplo.com");
         estudiante.setEdad(20);
     }
